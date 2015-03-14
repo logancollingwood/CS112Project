@@ -13,7 +13,7 @@ After the project is running in Unity it is needed to be built before it can be 
 
 To finish the build click on the Build button and choose the webApp folder.
 
-# Running Game:
+## Running Game:
 
 A browser such as Chrome or Firefox with the Unity Web Player plugin installed is needed in order to launch the game.
 In the project-master/webApp directory the webApp Html document will build the game in a browser supporting step 1.
